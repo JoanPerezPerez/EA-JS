@@ -42,3 +42,8 @@ Ejecutar JS
 ```
 node main.js
 ```
+## Seminari 2
+
+S'ha utilitzat la IA de copilot a mode de correcció així com els videos del seminari que es poden veure a atenea (https://atenea.upc.edu/mod/page/view.php?id=4903402) així com els apunts realitzats a classe i stackOverflow per mirar com comparar strings email (https://stackoverflow.com/questions/51165/how-to-sort-strings-in-javascript)
+
+
