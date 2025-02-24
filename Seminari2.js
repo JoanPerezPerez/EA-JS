@@ -23,7 +23,7 @@ async function fetchUserData(userId) {
     const posts = await getPosts(userId);
     console.log("Posts:", posts);
     const commentsPromises = posts.map(post => getComments(post.id));
-    console.log("comments", commentsPromises);
+    //console.log("comments", commentsPromises);
     const comments = await Promise.all(commentsPromises);
     console.log("Comments:", comments);
 
